@@ -21,4 +21,7 @@ Visit here: https://ipecxx.herokuapp.com/
 - Database seeder (products & users)
 
 
+![image](https://user-images.githubusercontent.com/55397457/127820762-8f507834-88c7-4f8f-b3eb-23db27e02df8.png)
+
+
 
